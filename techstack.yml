@@ -2,7 +2,7 @@ repo_name: GarthDB/component-options-schema
 report_id: 8129c076aa4e3046f54fe5b78e94c556
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-11T00:08:17+00:00'
+timestamp: '2024-02-29T19:25:53+00:00'
 requested_by: GarthDB
 provider: github
 branch: main
@@ -56,7 +56,7 @@ tools:
   last_updated_by: Garth Braithwaite
   last_updated_on: 2022-08-10 19:21:58.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.6.2
   license: MIT
